@@ -25,10 +25,9 @@ footer {
 
 .collapsible-body a {
     color: white;
-   
+    margin-left: 5%;
    display: block;
-    width: 100%;
-    height: 100%;
+
 
 }
 
