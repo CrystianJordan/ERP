@@ -12,14 +12,16 @@
   </head>
   <body>
 
+  <header><%@include file="Menu.jsp"%></header>
   <main>
 
-    <%@include file="Menu.jsp"%>
 
+<div class="container">
+  <h1>ERP-Sales</h1>
+  <hr>
 
-
-
-
+</div>
+    <canvas id="myChart" width="100" height="100"></canvas>
   </main>
 
 
@@ -32,13 +34,9 @@
 
   </body>
 
+<footer><%@include file="Footer.jsp"%></footer>
 
 
 
-  <script src="../js/jquery.js"></script>
-  <script src="../js/materialize.js"></script>
-  <script src="../js/charts/Chart.bundle.js"></script>
-  <script src="../js/charts/Chart.js"></script>
-  <script src="../js/main.js"></script>
 
 </html>

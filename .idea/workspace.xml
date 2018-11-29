@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6647b031-bfd2-4716-9868-a79abd10e467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/Footer.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/Utils.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/Utils.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/Menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/Menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/pages/Menu.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -31,6 +30,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/Utils.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/pages/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -66,9 +74,9 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/Menu.jsp" />
         <option value="$PROJECT_DIR$/web/pages/test.jsp" />
         <option value="$PROJECT_DIR$/web/css/Utils.css" />
+        <option value="$PROJECT_DIR$/web/js/main.js" />
+        <option value="$PROJECT_DIR$/web/pages/Footer.jsp" />
         <option value="$PROJECT_DIR$/web/pages/index.jsp" />
-        <option value="$PROJECT_DIR$/web/pages/EditarFuncionario.jsp" />
-        <option value="$PROJECT_DIR$/web/pages/Menu.jsp" />
       </list>
     </option>
   </component>
@@ -102,6 +110,25 @@
               <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ERP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ERP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ERP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
@@ -323,7 +350,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -333,7 +360,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3045326" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3045326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,10 +389,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/Menu.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/css/Utils.css">
+    <entry file="file://$PROJECT_DIR$/web/pages/Menu.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="221">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="113" />
         </state>
       </provider>
     </entry>
@@ -389,7 +416,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/pages/Menu.jsp">
+    <entry file="file://$PROJECT_DIR$/web/js/charts/Chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6222">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pages/Footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="40" column="104" selection-start-line="40" selection-start-column="104" selection-end-line="40" selection-end-column="104" />

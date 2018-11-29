@@ -15,11 +15,12 @@
   <main>
 
     <%@include file="Menu.jsp"%>
+<div class="container">
+  <h1>ERP-Sales</h1>
+  <hr>
 
-
-
-
-
+</div>
+    <canvas id="myChart" width="400" height="400"></canvas>
   </main>
 
 
