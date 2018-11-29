@@ -11,6 +11,8 @@
     <title>Editar Funcionario</title>
 </head>
 <body>
+<%@include file="Menu.jsp"%>
+
 
 </body>
 </html>
