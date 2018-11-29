@@ -12,7 +12,6 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>ERP_SALES-Pagina Inicial</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="../css/materialize.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="../css/Utils.css" />
@@ -38,8 +37,8 @@
         <ul class="collapsible">
             <li>
                 <div class="collapsible-header">Meu Perfil</div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="test.jsp">Ver Perfil</a></div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Editar</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="#">Ver Perfil</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="EditarFuncionario.jsp">Editar</a></div>
             </li>
             <li>
 
