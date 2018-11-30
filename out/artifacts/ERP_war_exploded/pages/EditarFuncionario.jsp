@@ -26,7 +26,14 @@
             </div>
         </div>
     </div>
-</div>
+
+
+
+    jquery --> main
+
+    $(document).ready(function(){
+    $('.slider').slider();
+    });
 
 
 </main>

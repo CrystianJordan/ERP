@@ -15,3 +15,6 @@ $(document).ready(function(){
     $('.tooltipped').tooltip();
 });
 
+$(document).ready(function(){
+    $('.slider').slider();
+});

@@ -12,6 +12,9 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $('.tooltipped').tooltip();
+    $('.slider').slider();
 });
 
+$(document).ready(function(){
+  $('.tooltipped').tooltip();
+  });
