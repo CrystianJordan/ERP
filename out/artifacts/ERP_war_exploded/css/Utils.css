@@ -30,7 +30,9 @@ footer {
 
 
 }
-
+.collapsible-header a {
+    color: #f5f5f5;
+}
 .collapsible-header {
     color: #f5f5f5;
 }

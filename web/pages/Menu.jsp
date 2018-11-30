@@ -21,7 +21,6 @@
 
 <body>
 
-<main>
 
     <ul id="slide-out" class="sidenav sidenav-fixed grey darken-2">
         <li>
@@ -36,20 +35,18 @@
         </li>
         <ul class="collapsible">
             <li>
-                <div class="collapsible-header waves-effect grey darken-1"><a href="index.jsp">Index</a></div>
+                <div class="collapsible-header"><a href="index.jsp">Index</a></div>
             </li>
             <li>
                 <div class="collapsible-header">Meu Perfil</div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="meuPerfil.jsp">Ver Perfil</a></div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="EditarFuncionario.jsp">Editar</a></div>
             </li>
-            <li>
 
-            </li>
             <li>
                 <div class="collapsible-header">Venda</div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Nova Venda</a></div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Mostrar Vendas</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="MostraVenda.jsp"> Mostrar Vendas</a></div>
             </li>
 
             <li>
@@ -64,5 +61,5 @@
 
 
 
-
-</main>
+</body>
+</html>
