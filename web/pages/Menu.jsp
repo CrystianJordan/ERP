@@ -35,27 +35,25 @@
         </li>
         <ul class="collapsible">
             <li>
-                <div class="collapsible-header waves-effect grey darken-1"><a href="index.jsp">Index</a></div>
+                <div class="collapsible-header"><a href="index.jsp">Index</a></div>
             </li>
             <li>
                 <div class="collapsible-header">Meu Perfil</div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="meuPerfil.jsp">Ver Perfil</a></div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="EditarFuncionario.jsp">Editar</a></div>
             </li>
-            <li>
 
-            </li>
             <li>
                 <div class="collapsible-header">Venda</div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Nova Venda</a></div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Mostrar Vendas</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="MostraVenda.jsp"> Mostrar Vendas</a></div>
             </li>
 
             <li>
                 <div class="collapsible-header">Taxa</div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Nova Taxa</a></div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Mostrar Taxas</a></div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Editar Taxas</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="MostraTaxa.jsp"> Mostrar Taxas</a></div>
+
             </li>
         </ul>
     </ul>
