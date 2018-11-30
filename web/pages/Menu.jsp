@@ -54,7 +54,7 @@
 
             <li>
                 <div class="collapsible-header">Taxa</div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Nova Taxa</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="CadastrarTaxa.jsp">Nova Taxa</a></div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Mostrar Taxas</a></div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Editar Taxas</a></div>
             </li>
