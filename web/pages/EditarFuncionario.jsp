@@ -10,23 +10,33 @@
 <head>
     <title>Editar Funcionario</title>
 </head>
-<body>
+<body style="margin-left: 10%;">
 <%@include file="Menu.jsp"%>
 
+<div class="container">
 <div class="slider">
     <ul class="slides">
         <li>
             <!-- Imagem de fundo do perfil -->
-            <img src="../img/pinguim.jpg">
+            <img src="../img/witcher_background.jpg">
             <div class="caption left-align">
                 <!-- Imagem do perfil -->
-                <img src="../img/bravo.jpg" style="max-height: 150px; max-width: 150px; border-radius: 15px; border: #ffffff">
+                <form action="#">
+                    <div class="file-field input-field" style="max-height: 150px; max-width: 150px; border-radius: 15px;">
+
+                            <img src="../img/witcher_logo.jpg" style="max-height: 150px; max-width: 150px; border-radius: 15px; border: #ffffff" >
+
+                            <input type="file">
+
+                    </div>
+                </form>
+
+
             </div>
         </li>
     </ul>
 </div>
-
-
+</div>
 
 
 
