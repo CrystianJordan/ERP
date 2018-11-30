@@ -46,7 +46,7 @@
 
             <li>
                 <div class="collapsible-header">Venda</div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Nova Venda</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="CriarVenda.jsp">Nova Venda</a></div>
                 <div class="collapsible-body waves-effect grey darken-1 "><a href="MostraVenda.jsp"> Mostrar Vendas</a></div>
             </li>
 

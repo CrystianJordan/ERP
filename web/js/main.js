@@ -21,3 +21,14 @@ $(document).ready(function(){
 $(document).ready(function(){
     $('select').formSelect();
 });
+$(document).ready(function(){
+    $('#myTable').pageMe({
+        pagerSelector:'#myPager',
+        activeColor: 'blue',
+        prevText:'Anterior',
+        nextText:'Siguiente',
+        showPrevNext:true,
+        hidePageNumbers:false,
+        perPage:10
+    });
+});
