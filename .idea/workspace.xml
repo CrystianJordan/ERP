@@ -62,7 +62,6 @@
         <option value="$PROJECT_DIR$/web/pages/test.jsp" />
         <option value="$PROJECT_DIR$/web/css/Utils.css" />
         <option value="$PROJECT_DIR$/web/js/main.js" />
-        <option value="$PROJECT_DIR$/web/pages/Footer.jsp" />
         <option value="$PROJECT_DIR$/web/pages/index.jsp" />
         <option value="$PROJECT_DIR$/web/js/ChartIndex.js" />
       </list>
@@ -104,25 +103,6 @@
               <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
               <item name="ERP" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ERP" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ERP" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="charts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ERP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ERP" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -156,7 +136,7 @@
   </component>
   <component name="RunManager">
     <configuration name="TomCat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ERP/web/pages/index.jsp" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ERP/web/pages/" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -298,7 +278,9 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="false" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ERP:war exploded" />
+        </option>
       </method>
     </configuration>
   </component>
@@ -376,17 +358,11 @@
     <entry file="file://$PROJECT_DIR$/out/artifacts/ERP_war_exploded/pages/Menu.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/Utils.css">
+    <entry file="file://$PROJECT_DIR$/web/pages/test.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/pages/EditarFuncionario.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="226">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
