@@ -13,16 +13,18 @@
 <body>
 <%@include file="Menu.jsp"%>
 
-    <div class="slider">
-        <ul class="slides">
-            <li>
-                <img src="../img/bravo.jpg"> <!-- random image -->
-                <div class="caption left-align">
-                    <img src="../img/pinguim.jpg" style="max-height: 150px; max-width: 150px">
-                </div>
-            </li>
-        </ul>
-    </div>
+<div class="slider">
+    <ul class="slides">
+        <li>
+            <!-- Imagem de fundo do perfil -->
+            <img src="../img/pinguim.jpg">
+            <div class="caption left-align">
+                <!-- Imagem do perfil -->
+                <img src="../img/bravo.jpg" style="max-height: 150px; max-width: 150px; border-radius: 15px; border: #ffffff">
+            </div>
+        </li>
+    </ul>
+</div>
 
 
 
