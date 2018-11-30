@@ -37,8 +37,8 @@
     <form action="#">
         <div class="file-field input-field">
                     <span>
-                        <div class="btn">
-                        <span>Capa</span>
+                        <div class="btn grey darken-2">
+                        <span>Mudar Capa</span>
                         <input type="file">
                     </div>
                         </span>
