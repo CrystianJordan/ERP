@@ -12,16 +12,16 @@
 </head>
 <body>
 <%@include file="Menu.jsp"%>
-
+<main>
 <div class="col s12 m8 offset-m2 l6 offset-l3">
     <div class="card-panel grey lighten-5 z-depth-1">
         <div class="row valign-wrapper">
             <div class="col s2">
-                <img src="../img/pinguim.jpg" alt="" class="responsive-img"> <!-- notice the "circle" class -->
+                <img src="../img/pinguim.jpg" alt="" class="responsive-img">
             </div>
             <div class="col s10">
               <span class="black-text">
-                This is a square image. Add the "circle" class to it to make it appear circular.
+                <img src="../img/bravo.jpg" alt="" class="responsive-img">
               </span>
             </div>
         </div>
@@ -29,7 +29,7 @@
 </div>
 
 
-
+</main>
 <footer><%@include file="Footer.jsp"%></footer>
 </body>
 </html>
