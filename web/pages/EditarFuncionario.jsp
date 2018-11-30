@@ -17,8 +17,26 @@
 <div class="slider">
     <ul class="slides">
         <li>
-            <!-- Imagem de fundo do perfil -->
+
             <img src="../img/witcher_background.jpg">
+
+
+
+                <form action="#">
+                <div class="file-field input-field">
+                    <span> <div class="btn">
+                        <span>File</span>
+                        <input type="file">
+
+                    </div>
+                        </span>
+                    <div class="file-path-wrapper">
+                        <input class="file-path validate" type="text">
+                    </div>
+                </div>
+            </form>
+
+
             <div class="caption left-align">
                 <!-- Imagem do perfil -->
                 <form action="#">
@@ -37,8 +55,6 @@
     </ul>
 </div>
 </div>
-
-
 
 
 <footer><%@include file="Footer.jsp"%></footer>

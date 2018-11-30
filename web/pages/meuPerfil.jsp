@@ -89,8 +89,9 @@
     </div>
 
 </div>
-</body>
 <footer>
     <%@include file="Footer.jsp"%>
 </footer>
+</body>
+
 </html>

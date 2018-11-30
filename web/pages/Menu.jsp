@@ -21,7 +21,6 @@
 
 <body>
 
-<main>
 
     <ul id="slide-out" class="sidenav sidenav-fixed grey darken-2">
         <li>
@@ -64,5 +63,5 @@
 
 
 
-
-</main>
+</body>
+</html>
