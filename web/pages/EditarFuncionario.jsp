@@ -12,13 +12,13 @@
 </head>
 <body>
 <%@include file="Menu.jsp"%>
-<main>
+
     <div class="slider">
         <ul class="slides">
             <li>
                 <img src="../img/bravo.jpg"> <!-- random image -->
                 <div class="caption left-align">
-                    <img src="../img/pinguim.jpg" style="max-height: 150px; max-width: 150px"; border: ;>
+                    <img src="../img/pinguim.jpg" style="max-height: 150px; max-width: 150px">
                 </div>
             </li>
         </ul>
@@ -26,14 +26,9 @@
 
 
 
-    jquery --> main
-
-    $(document).ready(function(){
-    $('.slider').slider();
-    });
 
 
-</main>
+
 <footer><%@include file="Footer.jsp"%></footer>
 </body>
 </html>
