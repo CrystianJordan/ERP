@@ -20,6 +20,7 @@
         <table>
             <thead>
             <tr>
+                <th>Id</th>
                 <th>Categoria</th>
                 <th>Nome</th>
                 <th>Valor Base</th>
@@ -29,6 +30,7 @@
 
             <tbody>
             <tr>
+                <td>1</td>
                 <td>Roubo do Governo</td>
                 <td>Taxa de oxigenio</td>
                 <td>R$ 300.00</td>
