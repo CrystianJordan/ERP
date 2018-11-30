@@ -21,39 +21,32 @@
             <img src="../img/witcher_background.jpg">
 
 
-
-                <form action="#">
-                <div class="file-field input-field">
-                    <span> <div class="btn">
-                        <span>File</span>
-                        <input type="file">
-
-                    </div>
-                        </span>
-                    <div class="file-path-wrapper">
-                        <input class="file-path validate" type="text">
-                    </div>
-                </div>
-            </form>
-
-
             <div class="caption left-align">
                 <!-- Imagem do perfil -->
                 <form action="#">
                     <div class="file-field input-field" style="max-height: 150px; max-width: 150px; border-radius: 15px;">
 
                             <img src="../img/witcher_logo.jpg" style="max-height: 150px; max-width: 150px; border-radius: 15px; border: #ffffff" >
-
-                            <input type="file">
-
+                        <input type="file">
                     </div>
                 </form>
-
-
             </div>
         </li>
     </ul>
 </div>
+    <form action="#">
+        <div class="file-field input-field">
+                    <span>
+                        <div class="btn">
+                        <span>Capa</span>
+                        <input type="file">
+                    </div>
+                        </span>
+            <div class="file-path-wrapper">
+                <input class="file-path validate" type="text">
+            </div>
+        </div>
+    </form>
 </div>
 
 
