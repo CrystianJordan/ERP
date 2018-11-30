@@ -21,7 +21,7 @@
   <hr>
 
 </div>
-    <canvas id="myChart" width="100" height="100"></canvas>
+    <canvas id="lineChart" width="400" height="400"></canvas>
   </main>
 
 
@@ -37,6 +37,8 @@
 <footer><%@include file="Footer.jsp"%></footer>
 
 
-
+  <script src="../js/charts/Chart.bundle.js"></script>
+  <script src="../js/charts/Chart.js"></script>
+  <script src="../js/ChartIndex.js"></script>
 
 </html>
