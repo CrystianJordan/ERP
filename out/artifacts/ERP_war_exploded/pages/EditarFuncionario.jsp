@@ -12,24 +12,28 @@
 </head>
 <body>
 <%@include file="Menu.jsp"%>
-
-<div class="col s12 m8 offset-m2 l6 offset-l3">
-    <div class="card-panel grey lighten-5 z-depth-1">
-        <div class="row valign-wrapper">
-            <div class="col s2">
-                <img src="../img/pinguim.jpg" alt="" class="responsive-img"> <!-- notice the "circle" class -->
-            </div>
-            <div class="col s10">
-              <span class="black-text">
-                This is a square image. Add the "circle" class to it to make it appear circular.
-              </span>
-            </div>
-        </div>
+<main>
+    <div class="slider">
+        <ul class="slides">
+            <li>
+                <img src="../img/bravo.jpg"> <!-- random image -->
+                <div class="caption left-align">
+                    <img src="../img/pinguim.jpg" style="max-height: 150px; max-width: 150px"; border: ;>
+                </div>
+            </li>
+        </ul>
     </div>
-</div>
 
 
 
+    jquery --> main
+
+    $(document).ready(function(){
+    $('.slider').slider();
+    });
+
+
+</main>
 <footer><%@include file="Footer.jsp"%></footer>
 </body>
 </html>
