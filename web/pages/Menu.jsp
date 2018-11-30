@@ -21,7 +21,6 @@
 
 <body>
 
-<main>
 
     <ul id="slide-out" class="sidenav sidenav-fixed grey darken-2">
         <li>
@@ -52,9 +51,9 @@
 
             <li>
                 <div class="collapsible-header">Taxa</div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!">Nova Taxa</a></div>
-                <div class="collapsible-body waves-effect grey darken-1 "><a href="MostraTaxa.jsp"> Mostrar Taxas</a></div>
-
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="CadastrarTaxa.jsp">Nova Taxa</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Mostrar Taxas</a></div>
+                <div class="collapsible-body waves-effect grey darken-1 "><a href="#!"> Editar Taxas</a></div>
             </li>
         </ul>
     </ul>
@@ -62,5 +61,5 @@
 
 
 
-
-</main>
+</body>
+</html>
