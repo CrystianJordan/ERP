@@ -38,6 +38,7 @@
             </li>
             <!-- Mostra a data de nascimento do funcionário -->
             <li>
+                <h5><b>CPF</b></h5>
                 <h5><b>Nascimento</b></h5>
                 <h6>26/04/2000</h6>
             </li>
