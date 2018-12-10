@@ -20,6 +20,7 @@
         <table>
             <thead>
             <tr>
+                <th>Id</th>
                 <th>Categoria</th>
                 <th>Nome</th>
                 <th>Valor Base</th>
@@ -29,10 +30,11 @@
 
             <tbody>
             <tr>
+                <td>1</td>
                 <td>Roubo do Governo</td>
                 <td>Taxa de oxigenio</td>
                 <td>R$ 300.00</td>
-                <td> <a class="waves-effect waves-light btn tooltipped modal-trigger  grey darken-1 " data-position="bottom" data-tooltip="I am a tooltip" href="#modal1"><i class="material-icons">create</i></a>  <a class="waves-effect waves-light btn grey darken-1"><i class="material-icons">delete</i> </a>
+                <td> <a class="waves-effect waves-light btn modal-trigger grey darken-1 " href="#modal1"><i class="material-icons">create</i></a>  <a class="waves-effect waves-light btn grey darken-1"><i class="material-icons">delete</i> </a>
 
 
                 </td>
@@ -42,11 +44,15 @@
 
         <div id="modal1" class="modal">
             <div class="modal-content">
-                <h4>Modal Header</h4>
-                <p>A bunch of text</p>
+                <div class="row">
+                    <div class="input-field col s6">
+                        <input placeholder="Valor Base" id="valorBase" type="text" class="validate">
+                        <label for="valorBase">Valor Base</label>
+                    </div>
+                </div>
             </div>
             <div class="modal-footer">
-                <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+                <a href="#!" class="modal-close waves-effect waves-green btn-flat">Editar</a>
             </div>
         </div>
 
